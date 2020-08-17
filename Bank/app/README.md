@@ -2,7 +2,7 @@
 
 O projeto desenvolvido utilizando Clean + MVVM
 - É usado LiveData para notificar as visualizações com todas atualizações 
-- O teste de unidade usa ustilizei o mockito porque é muito fácil simular objetos e JUnit para fazer um isolamento de teste.
+- O teste de unidade usa utilizei o mockito porque é mais fácil simular os objetos e JUnit para fazer um isolamento de teste.
 
 ## Packages
 O projeto é separado por três pacotes:

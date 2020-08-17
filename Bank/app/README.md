@@ -5,7 +5,7 @@ O projeto desenvolvido utilizando Clean + MVVM
 - O teste de unidade usa ustilizei o mockito porque é muito fácil simular objetos e JUnit para fazer um isolamento de teste.
 
 ## Packages
-The project is separated by three packages: 
+O projeto é separado por três pacotes:
 - Presentation: Fragmentos, Atividade etc. Frameworks do Android
 - Data: UseCase e Models, com as regras de negócio
 - Domain: Repository, DataSource and Services, com consumidores de dados locais e remotos

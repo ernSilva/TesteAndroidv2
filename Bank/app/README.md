@@ -8,4 +8,4 @@ O projeto desenvolvido utilizando Clean + MVVM
 O projeto é separado por três pacotes:
 - Presentation: Fragmentos, Atividade etc. Frameworks do Android
 - Data: UseCase e Models, com as regras de negócio
-- Domain: Repository, DataSource and Services, com consumidores de dados locais e remotos
+- Domain: Repository, DataSource e Services, com consumidores de dados locais e remotos

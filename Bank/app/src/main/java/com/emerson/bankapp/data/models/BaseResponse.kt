@@ -2,8 +2,6 @@ package com.emerson.bankapp.data.models
 
 import com.emerson.bankapp.data.interfaces.ResponseInterface
 import retrofit2.Response
-import retrofit2.http.HTTP
-import java.net.HttpURLConnection
 import java.net.HttpURLConnection.*
 
 sealed class BaseResponse<out T: Any> {

@@ -6,7 +6,6 @@ import com.emerson.bankapp.data.repositories.AuthRepository
 import com.emerson.bankapp.data.models.BaseResponse
 import com.emerson.bankapp.data.models.auth.LoginBody
 import com.emerson.bankapp.domain.models.UserInfo
-import java.util.regex.Pattern
 
 class AuthUseCase(private val repository: AuthRepository) {
 

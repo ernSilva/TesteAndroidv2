@@ -1,18 +1,10 @@
-# Bank Test App
-
-## Run project
-
-To execute the project open in Android Studio, the path /Bank that contains the application.
-> Sync gradle and run on device
-
 ## Architecture
-
-The project is develop using Clean + MVVM
-- It's used LiveData for notify the views with updates
-- The unit test use Mockito (I used mockito because it's so easy to mock objects) and JUnit to make a test isolade.
-
+O projeto desenvolvido utilizando Clean + MVVM
+- É usado LiveData para notificar as visualizações com todas atualizações 
+- O teste de unidade usa utilizei o mockito porque é mais fácil simular os objetos e JUnit para fazer um isolamento de teste.
 ## Packages
-The project is separated by three packages: 
-- Presentation: Fragments, Activity etc. Android Framework
-- Data: UseCase and Models, with the bussiness rules
-- Domain: Repository, DataSource and Services, with local and remote data consumers
+O projeto é separado por três pacotes:
+- Presentation: Fragmentos, Atividade etc. Frameworks do Android
+- Data: UseCase e Models, com as regras de negócio
+- Domain: Repository, DataSource and Services, com consumidores de dados locais e remotos
+- Domain: Repository, DataSource e Services, com consumidores de dados locais e remotos

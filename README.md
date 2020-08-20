@@ -1,6 +1,6 @@
 ## Iniciar o aplicativo
 Para iniciar a aplicação
-- Sicronize o Grnadle
+- Sicronize o Grandle
 
 ## Architecture
 O projeto desenvolvido utilizando Clean + MVVM

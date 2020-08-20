@@ -1,3 +1,7 @@
+## Iniciar o aplicativo
+Para iniciar a aplicação
+- Sicronize o Grnadle
+
 ## Architecture
 O projeto desenvolvido utilizando Clean + MVVM
 - É usado LiveData para notificar as visualizações com todas atualizações 
